@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Anime-Heroes-Rolodex/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Anime-Heroes-Rolodex/static/js/main.ca920af5.chunk.js",
-    "main.js.map": "/Anime-Heroes-Rolodex/static/js/main.ca920af5.chunk.js.map",
-    "runtime-main.js": "/Anime-Heroes-Rolodex/static/js/runtime-main.ac93edf5.js",
-    "runtime-main.js.map": "/Anime-Heroes-Rolodex/static/js/runtime-main.ac93edf5.js.map",
+    "main.css": "/Anime-Heroes-Rolodex/static/css/main.ff76baaa.chunk.css",
+    "main.js": "/Anime-Heroes-Rolodex/static/js/main.e88c480b.chunk.js",
+    "main.js.map": "/Anime-Heroes-Rolodex/static/js/main.e88c480b.chunk.js.map",
+    "runtime-main.js": "/Anime-Heroes-Rolodex/static/js/runtime-main.026b7556.js",
+    "runtime-main.js.map": "/Anime-Heroes-Rolodex/static/js/runtime-main.026b7556.js.map",
     "static/js/2.39ec3a14.chunk.js": "/Anime-Heroes-Rolodex/static/js/2.39ec3a14.chunk.js",
     "static/js/2.39ec3a14.chunk.js.map": "/Anime-Heroes-Rolodex/static/js/2.39ec3a14.chunk.js.map",
-    "static/js/3.a57bd144.chunk.js": "/Anime-Heroes-Rolodex/static/js/3.a57bd144.chunk.js",
-    "static/js/3.a57bd144.chunk.js.map": "/Anime-Heroes-Rolodex/static/js/3.a57bd144.chunk.js.map",
+    "static/js/3.d352fd14.chunk.js": "/Anime-Heroes-Rolodex/static/js/3.d352fd14.chunk.js",
+    "static/js/3.d352fd14.chunk.js.map": "/Anime-Heroes-Rolodex/static/js/3.d352fd14.chunk.js.map",
     "index.html": "/Anime-Heroes-Rolodex/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Anime-Heroes-Rolodex/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.ff76baaa.chunk.css.map": "/Anime-Heroes-Rolodex/static/css/main.ff76baaa.chunk.css.map",
     "static/js/2.39ec3a14.chunk.js.LICENSE.txt": "/Anime-Heroes-Rolodex/static/js/2.39ec3a14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac93edf5.js",
+    "static/js/runtime-main.026b7556.js",
     "static/js/2.39ec3a14.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ca920af5.chunk.js"
+    "static/css/main.ff76baaa.chunk.css",
+    "static/js/main.e88c480b.chunk.js"
   ]
 }
