@@ -1,14 +1,27 @@
  [
     {
         "id": "kakarot",
-        "name": "Kakarot"
-    },
+        "name": "Kakarot",
+        "img": "https://avatarfiles.alphacoders.com/124/124856.png"
+        },
     {
         "id": "vegeta",
-        "name": "Vegeta"
+        "name": "Vegeta",
+        "img": "https://avatarfiles.alphacoders.com/739/73989.jpg"
     },
     {
         "id": "broly",
-        "name": "Broly"
+        "name": "Broly",
+        "img": "https://avatarfiles.alphacoders.com/164/164150.jpg"    
+    },
+    {
+        "id": "saitama",
+        "name": "Saitama",
+        "img": "https://avatarfiles.alphacoders.com/924/92481.jpg"    
+    },
+    {
+        "id": "genos",
+        "name": "Genos",
+        "img": "https://avatarfiles.alphacoders.com/107/107799.png"    
     }
 ]
