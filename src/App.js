@@ -24,7 +24,6 @@ class App extends Component {
     const { heroes, searchField } = this.state;
     
     const filteredHeroes = heroes.filter(hero => hero.name.toLowerCase().includes(searchField.toLowerCase()));
-    console.log(filteredHeroes);
 
     return (
       <div className="App">
