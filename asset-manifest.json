@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Anime-Heroes-Rolodex/static/css/main.ec05c195.chunk.css",
-    "main.js": "/Anime-Heroes-Rolodex/static/js/main.8c7e6e18.chunk.js",
-    "main.js.map": "/Anime-Heroes-Rolodex/static/js/main.8c7e6e18.chunk.js.map",
+    "main.css": "/Anime-Heroes-Rolodex/static/css/main.fa4fe6f6.chunk.css",
+    "main.js": "/Anime-Heroes-Rolodex/static/js/main.d097051a.chunk.js",
+    "main.js.map": "/Anime-Heroes-Rolodex/static/js/main.d097051a.chunk.js.map",
     "runtime-main.js": "/Anime-Heroes-Rolodex/static/js/runtime-main.ad136a6e.js",
     "runtime-main.js.map": "/Anime-Heroes-Rolodex/static/js/runtime-main.ad136a6e.js.map",
     "static/js/2.39ec3a14.chunk.js": "/Anime-Heroes-Rolodex/static/js/2.39ec3a14.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.c5ac0304.chunk.js": "/Anime-Heroes-Rolodex/static/js/3.c5ac0304.chunk.js",
     "static/js/3.c5ac0304.chunk.js.map": "/Anime-Heroes-Rolodex/static/js/3.c5ac0304.chunk.js.map",
     "index.html": "/Anime-Heroes-Rolodex/index.html",
-    "static/css/main.ec05c195.chunk.css.map": "/Anime-Heroes-Rolodex/static/css/main.ec05c195.chunk.css.map",
-    "static/js/2.39ec3a14.chunk.js.LICENSE.txt": "/Anime-Heroes-Rolodex/static/js/2.39ec3a14.chunk.js.LICENSE.txt"
+    "static/css/main.fa4fe6f6.chunk.css.map": "/Anime-Heroes-Rolodex/static/css/main.fa4fe6f6.chunk.css.map",
+    "static/js/2.39ec3a14.chunk.js.LICENSE.txt": "/Anime-Heroes-Rolodex/static/js/2.39ec3a14.chunk.js.LICENSE.txt",
+    "static/media/animeHeroesLogo.0bcc583e.png": "/Anime-Heroes-Rolodex/static/media/animeHeroesLogo.0bcc583e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ad136a6e.js",
     "static/js/2.39ec3a14.chunk.js",
-    "static/css/main.ec05c195.chunk.css",
-    "static/js/main.8c7e6e18.chunk.js"
+    "static/css/main.fa4fe6f6.chunk.css",
+    "static/js/main.d097051a.chunk.js"
   ]
 }
