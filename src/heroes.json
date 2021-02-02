@@ -23,5 +23,20 @@
         "id": "genos",
         "name": "Genos",
         "img": "https://avatarfiles.alphacoders.com/107/107799.png"    
+    },
+    {
+        "id": "leviackerman",
+        "name": "Levi Ackerman",
+        "img": "https://avatarfiles.alphacoders.com/885/thumb-1920-88564.jpg"    
+    },
+    {
+        "id": "meliodas",
+        "name": "Meliodas",
+        "img": "https://avatarfiles.alphacoders.com/171/thumb-1920-171095.png"    
+    },
+    {
+        "id": "kenkaneki",
+        "name": "Ken Kaneki",
+        "img": "https://avatarfiles.alphacoders.com/527/52773.jpg"    
     }
 ]

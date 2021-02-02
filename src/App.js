@@ -3,6 +3,7 @@ import './App.css';
 import { CardList } from './components/card-list/card-list-component';
 import { SearchBox } from './components/search-box/search-box-component';
 import heroes from './heroes.json';
+import animeHeroesLogo from './animeHeroesLogo.png'
 
 
 class App extends Component {
@@ -14,6 +15,10 @@ class App extends Component {
     }
   }
 
+  handleSearchFieldChange = e => {
+    this.setState({searchField: e.target.value});
+  };
+
 
   render() {
     const { heroes, searchField } = this.state;
@@ -23,7 +28,8 @@ class App extends Component {
 
     return (
       <div className="App">
-        <SearchBox placeholder='Search Heroes' handleChange={e => this.setState({searchField: e.target.value})}></SearchBox>
+        <div><img alt="Logo" src={animeHeroesLogo}/></div>
+        <SearchBox placeholder='Search Heroes' handleChange={this.handleSearchFieldChange}></SearchBox>
         <CardList heroes={filteredHeroes}></CardList>
       </div>
     );  

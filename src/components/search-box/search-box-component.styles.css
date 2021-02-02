@@ -1,6 +1,8 @@
 .search-box {
     -webkit-appearance: none;
+    background-color: #95dada;;
     border: none;
+    border-radius: 15px;
     outline: none;
     padding: 10px;
     width: 150px;
